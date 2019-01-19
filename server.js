@@ -6,7 +6,8 @@ function ServerParams(req,res)
 {
     res.statusCode = 200;
     res.setHeader('Content-Type', 'text/plain');
-    res.end('Hello World\n');
+    res.end('Name - SIDHARTH CHOUDHARY\n Student ID - 300990285');
+    res.end('\n');
 }
 const server = http.createServer(ServerParams);
 
