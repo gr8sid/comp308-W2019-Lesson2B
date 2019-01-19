@@ -1,0 +1,22 @@
+{
+  "name": "comp308-w2019-lesson2b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gr8sid/comp308-W2019-Lesson2B.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gr8sid/comp308-W2019-Lesson2B/issues"
+  },
+  "homepage": "https://github.com/gr8sid/comp308-W2019-Lesson2B#readme"
+}
